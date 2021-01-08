@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our GitHub Project!"
 ---
-We love books which are not boring.
+Range against the machines.
 Use the left arrow to go back!
